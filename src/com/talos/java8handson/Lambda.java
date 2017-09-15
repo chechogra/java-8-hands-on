@@ -1,3 +1,5 @@
+package com.talos.java8handson;
+
 import java.util.Arrays;
 import java.util.List;
 

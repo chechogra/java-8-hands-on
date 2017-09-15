@@ -1,3 +1,5 @@
+package com.talos.java8handson;
+
 import java.util.*;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;

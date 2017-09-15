@@ -1,3 +1,5 @@
+package com.talos.java8handson;
+
 import java.util.function.Predicate;
 
 public class Predicates {
